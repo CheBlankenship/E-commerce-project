@@ -1,4 +1,3 @@
-
 CREATE TABLE customer (
     id serial PRIMARY KEY,
     username text,
